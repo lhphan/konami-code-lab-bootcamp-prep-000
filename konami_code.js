@@ -12,7 +12,6 @@ function init() {
         index = 0
       }
     }else{
-      alert("Wrong!")
       index = 0
     }
   })
